@@ -4,34 +4,32 @@ A Tax calculation and regime comparison tool for the Indian Tax System. Up-to-da
 ## Dev Planning
 ### Components:
 1. Salary Details
-  a. Basic Salary
-  b. HRA component
+  1. Basic Salary
+  2. HRA component
 2. Investment Details
-  a. HRA
-    i. Rent
-    ii. Metro/Non metro
-  b. 80C
-    i. Employee's Share of PF
-    ii. Total of all Other 80C modes
-  c. 80D
-    i. Self
-    ii. Parents < 60
-    iii. Parents > 60
-  d. NPS
-    i. 80CCD (1b)
-    ii. 80CCD 2
-  e. Any other deductions in Taxable Income
+  1. HRA
+    1. Rent
+    2. Metro/Non metro
+  2. 80C
+    1. Employee's Share of PF
+    2. Total of all Other 80C modes
+  3. 80D
+    1. Self
+    2. Parents < 60
+    3. Parents > 60
+  4. NPS
+    1. 80CCD (1b)
+    2. 80CCD 2
+  5. Any other deductions in Taxable Income
 3. Regime Analysis - Old vs New
-  a. Total Taxable Income Calculation
-  b. Slab wise Tax Calculation Comparison
-  c. Verdict
+  1. Total Taxable Income Calculation
+  2. Slab wise Tax Calculation Comparison
+  3. Verdict
 
 
 
 
 
-
-</hr>
 # ReactJs Create React App's default Readme
 
 ## Getting Started with Create React App
