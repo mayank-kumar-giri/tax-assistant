@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# Tax Assistant
+A Tax calculation and regime comparison tool for the Indian Tax System. Up-to-date with the laws till January 2022.
+
+## Dev Planning
+### Components:
+1. Salary Details
+  a. Basic Salary
+  b. HRA component
+2. Investment Details
+  a. HRA
+    i. Rent
+    ii. Metro/Non metro
+  b. 80C
+    i. Employee's Share of PF
+    ii. Total of all Other 80C modes
+  c. 80D
+    i. Self
+    ii. Parents < 60
+    iii. Parents > 60
+  d. NPS
+    i. 80CCD (1b)
+    ii. 80CCD 2
+  e. Any other deductions in Taxable Income
+3. Regime Analysis - Old vs New
+  a. Total Taxable Income Calculation
+  b. Slab wise Tax Calculation Comparison
+  c. Verdict
+
+
+
+
+
+
+</hr>
+# ReactJs Create React App's default Readme
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
