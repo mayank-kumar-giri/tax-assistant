@@ -3,32 +3,44 @@ A Tax calculation and regime comparison tool for the Indian Tax System. Up-to-da
 
 ## Dev Planning
 ### Components:
-1. Salary Details
-  1. Basic Salary
-  2. HRA component
-2. Investment Details
-  1. HRA
-    1. Rent
-    2. Metro/Non metro
-  2. 80C
-    1. Employee's Share of PF
-    2. Total of all Other 80C modes
-  3. 80D
-    1. Self
-    2. Parents < 60
-    3. Parents > 60
-  4. NPS
-    1. 80CCD (1b)
-    2. 80CCD 2
-  5. Any other deductions in Taxable Income
-3. Regime Analysis - Old vs New
-  1. Total Taxable Income Calculation
-  2. Slab wise Tax Calculation Comparison
-  3. Verdict
-
-
-
-
+<ol>
+  <li> Salary Details </li>
+    <ol>
+      <li> Basic Salary </li>
+      <li> HRA component </li>
+    </ol>
+  <li> Investment Details </li>
+    <ol>
+      <li> HRA </li>
+        <ol>
+          <li> Rent </li>
+          <li> Metro/Non metro </li>
+        </ol>
+      <li> 80C </li>
+        <ol>
+          <li> Employee's Share of PF </li>
+          <li> Total of all Other 80C modes </li>
+        </ol>
+      <li> 80D </li>
+        <ol>
+          <li> Self </li>
+          <li> Parents < 60 </li>
+          <li> Parents > 60 </li>
+        </ol>
+      <li> NPS </li>
+        <ol>
+          <li> 80CCD (1b) </li>
+          <li> 80CCD (2) </li>
+        </ol>
+      <li> Any other deductions in Taxable Income </li>
+    </ol>
+  <li> Regime Analysis - Old vs New </li>
+    <ol>
+      <li> Total Taxable Income Calculation </li>
+      <li> Slab wise Tax Calculation Comparison </li>
+      <li> Verdict </li>
+  </ol>
+</ol>
 
 # ReactJs Create React App's default Readme
 
