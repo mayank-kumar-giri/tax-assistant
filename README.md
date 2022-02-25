@@ -42,6 +42,25 @@ A Tax calculation and regime comparison tool for the Indian Tax System. Up-to-da
   </ol>
 </ol>
 
+## Running Notes
+<pre>
+Calculations, Analysis and Verdict //Collapse
+  - Slab wise tax calculation in both regimes and total tax without exemption //Card
+  - Exemption Calculations // Tabs and progress(youre saving x% of the savable tax) in card
+    - HRA calculation
+    - 80C
+    - 80D
+    - NPS
+      - 80CCD1b
+      - 80CCD2 calculation
+    - Others
+  - Regime Comparison - Total Exemption Calculation - Total Taxable Income calculation - OLD vs NEW. Better Regime and Tax savings in the better regime //Statistic
+  - Insights - What more can you do? -> Wherever investment amount is lesser than max cap, suggestion telling how much more can be saved.
+    - Combined tab type thing for all options
+    - Total - Best case scenario details
+</pre>
+ 
+
 # ReactJs Create React App's default Readme
 
 ## Getting Started with Create React App
